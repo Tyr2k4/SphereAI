@@ -133,4 +133,4 @@ Full details and the reasoning behind each of these live in [`SECURITY.md`](SECU
 
 ## License
 
-Add your preferred license here (e.g. MIT) before publishing.
+MIT — see [LICENSE](LICENSE).
